@@ -18,7 +18,7 @@ Print a line that contains all values of n during the algorithm.
 
 ### Constraints
 
-> 1 ≤ n ≤ 106
+> 1 ≤ n ≤ 10^6
 
 ### Example
 
